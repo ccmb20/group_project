@@ -1,0 +1,97 @@
+h1{
+  text-align: center;
+  margin-top: 60px;
+  font-family: Jubilat, Georgia, sans-serif;
+  font-size: 50px;
+
+
+
+
+
+}
+
+p{
+
+  text-align: center;
+  margin-top: 30px;
+
+
+
+
+}
+
+.trendingcontent{
+
+  display: block;
+  height:40px;
+  background-color: #ffc40c;
+  margin-top: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 240px;
+  margin-right: 240px;
+  font-size: 25px;
+
+
+
+
+}
+
+
+
+.studentimg{
+
+  margin-left: 240px
+
+
+}
+
+
+.column {
+  margin-top: 200px;
+  float:right;
+  width: 33.33%;
+  column-gap: 30px;
+
+
+
+
+
+
+}
+
+h2{
+ font-size: 25px;
+ font-weight: 600;
+ font-family: Jubilat, Georgia, sans-serif;
+ margin-top: -180px;
+ color: black;
+
+
+}
+
+.list-unstyled{
+
+  margin-top:250px;
+  padding-left: 180px;
+  padding-right:350px;
+
+}
+
+#readme{
+  margin-left: 100px;
+  margin-left: 30px;
+
+
+}
+
+hr{
+
+  background-color: #ffc40c;
+  padding-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
